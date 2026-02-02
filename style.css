@@ -14,3 +14,20 @@ header{
     align-items: center;
     padding: 15px 10%;
 }
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    font-size: 14px;
+}
+
+.btn-outline {
+    border: 1px solid white;
+    padding: 8px 15px;
+    border-radius: 4px;
+}
