@@ -87,3 +87,21 @@ nav a {
     padding: 80px 20%;
     text-align: center;
 }
+
+/* Contact Form */
+.contact {
+    padding: 80px 10%;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-submit {
+    width: 100%;
+    background: #111;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
