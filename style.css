@@ -4,3 +4,13 @@ body{
     font-family: 'Helvetica Nue', Arial, sans-serif;
     background-color: #f8f9fa
 }
+
+/* Header & Nav */
+header{
+    background-color: #111;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10%;
+}
