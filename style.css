@@ -31,3 +31,35 @@ nav a {
     padding: 8px 15px;
     border-radius: 4px;
 }
+
+/* Hero */
+.hero {
+    display: flex;
+    padding: 80px 10%;
+    align-items: center;
+    gap: 50px;
+}
+
+.hero-text {
+    flex: 1;
+}
+
+.hero-image {
+    flex: 1;
+    text-align: right;
+}
+
+.hero-image img {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 4px;
+}
+
+.btn-dark {
+    background: #111;
+    color: white;
+    padding: 12px 25px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 4px;
+}
